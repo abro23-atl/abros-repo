@@ -1,0 +1,3 @@
+Day 1:
+Learning GitHub basics.
+Created my first repository.
